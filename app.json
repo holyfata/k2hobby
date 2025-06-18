@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "93e05fe9-634c-475a-a5a8-0b4c95c03ce5"
+      }
+    },
+    "owner": "holyfata"
   }
 }
